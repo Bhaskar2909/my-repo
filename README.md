@@ -17,6 +17,7 @@ we had team discussion to work on the issues raised by Dr Hoot. My part was to w
 ## 4 hours of Day 3:
 Worked on risk factors while playing the treasure Hunt and updated the readme.MD file[commit](https://github.com/Dixith1196/THE-HUNT/commit/d5630226b73518ccfc3bb877084e6126b2faa95c#diff-04c6e90faac2675aa89e2176d2eec7d8).
 - I worked on module-1 individual-1 assessement[work](https://github.com/Dixith1196/THE-HUNT/blob/master/Bhaskar/README.md).
+- worked on how to implement a progressive web App apart from mobile App. 
 
 
 
