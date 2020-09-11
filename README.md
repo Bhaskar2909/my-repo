@@ -2,7 +2,7 @@
 # My work
 ## ATTENDENCE:
 - I have attended the GDP 1 classes on following days:
-- 09/07/2020
+- 09/07/2020(paid leave)
 - 09/09/2020(Zoom)
 - 09/11/2020(Zoom)
 ## 4 hours of Day 1:
