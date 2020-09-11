@@ -2,22 +2,19 @@
 # My work
 ## ATTENDENCE:
 - I have attended the GDP 1 classes on following days:
-- 08/31/2020 – (Zoom)
-- 09/02/2020 – (In-person) 
-- 09/04/2020– (zoom)
+- 09/07/2020
+- 09/09/2020(Zoom)
+- 09/11/2020(Zoom)
 ## 4 hours of Day 1:
-we had team discussion to work on the issues raised by Dr Hoot. My part was to work on budget issues of the project because i was the one dealing it from the beginning. so i worked on the total cost estimation of the project and commited it to the readme.MD file the issue. [commit](https://github.com/Dixith1196/THE-HUNT/commit/3d7842b42d573eb7ac44808a388e2d4e01d02e8b) and then closed the issue. [comment](https://github.com/Dixith1196/THE-HUNT/issues/13).
-- started to prepare for the presentation part.
+I have interacted with most of the people of my section regarding their area of intrest in the project and finally i was able to find people whose area of intrest matches with mine. So we decided to group up as a team and Work on UI Design/Theme.
+paid leave
 ## 4 hours of Day 2:
-- Added the hourlybillingrate file to the repo. [commit](https://github.com/Dixith1196/THE-HUNT/blob/master/hourlybillingrate.png)
--similarly uploaded the cost estimation file was also added to repo. [commit](https://github.com/Dixith1196/THE-HUNT/blob/master/cost%20estimation.PNG)
-- After the presentation, we got some reviews on the topics that need more time to be spent. among them one is user module,and i started working on updating the user module and writting acceptance criteria for each user module. [commit](https://github.com/Dixith1196/THE-HUNT/commit/ce6023e8ea58336ed8469a8b84aa0898f7d6f1e3#diff-04c6e90faac2675aa89e2176d2eec7d8).
-- I also discussed with the teammates about the all other issues that were raised in order to have a grip on the project in each area.
+- I have attended the Zoom session along with my teammates, hosted by the User stories and Sprint planning group. In the session, we have shared our ideas on scheduling the Workflow of the project and also discussed the roles of each individual in the group and discussed what to work on.  and then we joined the repository by accepting the invitation link sent by User stories and Sprint planning group.
+
+repo link:[Repo Link](https://github.com/KHARIKA17/NWMSU_Gaming-App)
 
 ## 4 hours of Day 3:
-Worked on risk factors while playing the treasure Hunt and updated the readme.MD file. [commit](https://github.com/Dixith1196/THE-HUNT/commit/d5630226b73518ccfc3bb877084e6126b2faa95c#diff-04c6e90faac2675aa89e2176d2eec7d8).
-- I worked on module-1 individual-1 assessement. [work](https://github.com/Dixith1196/THE-HUNT/blob/master/Bhaskar/README.md).
-- worked on how to implement a progressive web App apart from mobile App. 
+rohith reddy and i have started working on the designing UI sketches for our project. and we are happy to say that we are in the middle of 
 
 
 
