@@ -2,9 +2,9 @@
 # My work
 ## ATTENDENCE:
 - I have attended the GDP 1 classes on following days:
-- 09/28/2020(Zoom)
-- 09/30/2020(Zoom)
-- 09/02/2020(Zoom)
+- 10/05/2020(Zoom)
+- 10/07/2020(Zoom)
+- 10/09/2020(No class)
 ## 4 hours of Day 1:
 I have started working on the tasks assigned to me in Jira by the stories and sprint planning team. Accordingly i have made some rough estimation of designs on the paper and discussed it with my mates. After getting some positive feedback i have started working on them using the tool Figma. considering the possibilities i have designed 3 screens.and got reviewed from my mates
 
@@ -28,6 +28,8 @@ http://cs04.nwmissouri.edu/browse/GDPGAM-79
 
 
 
+Since the new groups have been formed.On the day 1 we had a discussion about the working module of the week and then started working on the implementation of Team creation page using embedded java script. Since the group is equiped with enough skilled people i behaved as an helping hand to them during the implementation part.
 
+ we got some review (comments) from Dr case on the UI screens which i had developed previously. and  i have updated the Screen according to the clients requirement and then started implementing the screen with my team mates  
 
 
